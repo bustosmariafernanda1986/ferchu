@@ -2,9 +2,4 @@ holaMUndo
 chauMundo
 mundo cruel!
 punto2
-<<<<<<< HEAD
-puntomas
-=======
-zarlanga
->>>>>>> 2ec134b6a62727d8917ff2ef568968fc29cfef93
-zaraza 
+extra
