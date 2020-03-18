@@ -1,7 +1,9 @@
 <html>
     <head>
         <body>
-            <form>
+            <form action="hola.com/formulario">
+
+                <h1>Formulario de Contacto</h1>
                 <label>
                    <h3>Nombre</h3> 
                     <input type="text" name="nombre">
@@ -14,17 +16,17 @@
                 <br>
                 <label>
                     <h3>Edad</h3>
-                    <input type="text" name="edad">
+                    <input type="number" id="input_edad" name="edad" min="18" max="99">
                 </label>
                 <br>
             
                     <h3>Nacionalidad</h3>
                     <br>
-                    <Select name="Nacionality">
+                    <select name="Nacionality">
                         <option value="Argentina">Argentina</option>
                         <option value="Chilena">Chilena </option>
                         <option value="Brasilera">Brasilera</option>
-                    </Select>  
+                    </select>  
                     <h3>Tecnologia</h3>
                 <label>
                     <input type="checkbox" name="description" value="Frontend">
