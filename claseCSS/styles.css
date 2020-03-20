@@ -1,0 +1,19 @@
+  /* algo {
+      propiedad:valor
+  }
+   */
+   article {
+       width: 600px;
+    margin: auto;
+}
+
+   h1 {
+        font-size: 2.2em;
+   }
+   p {
+       font-family:sans-serif;
+       line-height: 1.8rem;
+       font-size: 1.2em;
+       color: grey;
+       margin-bottom: 2.6em;
+   }
