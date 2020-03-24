@@ -38,14 +38,25 @@ body {
     color: rgb(51, 48, 48);
 }
 
+.super {
+    text-align: left;
+}
+
 .read-on {
-    font-family: serif;
-    text-align: left;
+    color: #fff;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(175, 17, 17);
+    background: rgb(175, 17, 17);
+    padding: 0.5em;
+    padding-left: 2.3em;
+    padding-right: 2.3em;
 }
 
-.read-later { 
-    font-family: serif;
-    text-align: left;
+.read-later {
+    border: 1px;
+    border-style: solid;
+    color: rgb(175, 17, 17);
+    border-color:  rgb(175, 17, 17);
+    padding: 0.5em 1em;
 }
-
-
