@@ -1,0 +1,106 @@
+body {
+    width: 43%;
+    text-align: left;
+    margin: 10em 20em;
+    font-family: sans-serif;
+}
+
+.pinned-post {
+    color: rgb(195, 195, 195);
+    font-size: 1.1em;
+    margin-bottom: 0em;
+    font-weight: 400;
+}
+hr {
+    border-color: rgb(233, 233, 233);
+    border-style: solid;
+    border-bottom: 1em;
+  }
+
+.page-title {
+    margin-bottom: 0em;
+}
+
+  img {
+    border-radius: 50%;
+    width: 62px;
+    height: 62px;
+    margin-left: 30em;
+  }
+.article {
+    text-align: left;
+    display: inline;
+    margin-top: 0em;
+}
+
+.slides {
+    text-decoration: none;
+    color: rgb(50, 129, 194);
+    background: none;
+
+}
+.author {
+    text-align: left;
+    color: rgb(173, 172, 172);
+    font-weight: 600;
+    font-size: 1em;
+    padding-top: 0em;
+}
+
+.under {
+    text-align: left;
+    color: rgb(173, 172, 172);
+    font-weight: 600;
+    font-size: 1em;
+
+}
+.css {
+    color: white;
+    font-weight: 400;
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(54, 175, 17, 0.726);
+    background: rgba(54, 175, 17, 0.726);
+    padding: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0em;
+}
+.pure {
+    color: white;
+    font-weight: 400;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(34, 138, 207);
+    background: rgb(34, 138, 207);
+    padding: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0em;
+}
+.text-article {
+    color: rgb(59, 59, 59);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 1.1em;
+}
+
+.article-eric {
+    text-align: left;
+    display: inline;
+    margin-top: 0em;
+}
+
+.java {
+    color: white;
+    font-weight: 400;
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(196, 16, 31, 0.726);
+    background:  rgba(196, 16, 31, 0.726);;
+    padding: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0em;
+}
+   
